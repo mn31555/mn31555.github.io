@@ -23,7 +23,24 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-      </li>	
+      </li>
+      <li>
+        <span class="nav__sub-title">JAVA</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "기본" %}
+                        <li><a href="/categories/기본" class="">Git & Github({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "심화" %}
+                        <li><a href="/categories/심화" class="">Blog Dev({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </li>
             <br>      
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fheoni00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
       </li>
