@@ -19,8 +19,8 @@ locale                   : "ko-KR" # 블로그 사용 언어
 title                    : "mn31555" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "mn31555🍯"
-description              : "공부 & 일상 블로그"
+name                     : "mn31555"
+description              : "업무 & 개발 블로그"
 url                      : "https://mn31555.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mn31555/comments" #댓글 경로 / github name/repository
