@@ -44,7 +44,7 @@ author_profile: true
 > **CODEONE 보안연구소 입사** 2022.11 ~
 ##### 보안 관련 연구 개발
 ▪ 보안 관련 시스템 개발
-▪ SPRING, JAVA 역량 강화
+▪ Spring, JAVA 역량 강화
 
 
 
