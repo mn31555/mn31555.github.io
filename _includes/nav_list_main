@@ -8,23 +8,6 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
-        <span class="nav__sub-title">Study</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Itterm" %}
-                        <li><a href="/categories/itterm" class="">IT Knowledge({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "SQL" %}
-                        <li><a href="/categories/sql" class="">DB & SQL({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-      </li>
-      <li>
         <span class="nav__sub-title">Portfolio Dev</span>
             <ul>
                 {% for category in site.categories %}
@@ -40,42 +23,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-      </li>
-      <li>
-        <span class="nav__sub-title">Statistics</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Statistics" %}
-                        <li><a href="/categories/statistics" class="">Statistics Basics({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-      </li>
-      <li>
-        <span class="nav__sub-title">Mine</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Professional-exp" %}
-                        <li><a href="/categories/professional-exp" class="">Professional Experiences({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Project" %}
-                        <li><a href="/categories/project" class="">Project({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>    
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Certificate" %}
-                        <li><a href="/categories/certificate" class="">Certificate({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-      </li>
-      <li>	
+      </li>	
             <br>      
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fheoni00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
       </li>
