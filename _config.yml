@@ -74,9 +74,9 @@ naver_site_verification  :
 
 # Social Sharing
 
-# instagram : 0ldcar_  
-# email : chh96077@gmail.com
-# github : heoni00
+# instagram : jihn_98  
+# email : mn31555@naver.com
+# github : mn31555
 
 twitter:
   username               :
@@ -105,7 +105,7 @@ analytics: # 블로그 접근 경로 확인 코드
 # Site Author / 사이드바 소개 부분
 author:
   name             : "김지훈"
-  avatar           : "/assets/images/profile22.10.jpg"
+  avatar           : "/assets/images/김지훈.jpg"
   bio              : "CODEONE 연구원"
   location         : "Ilsan"
   
@@ -118,7 +118,7 @@ author:
       url: "https://github.com/mn31555"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/"
+      url: "https://www.instagram.com/jihn_98"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
