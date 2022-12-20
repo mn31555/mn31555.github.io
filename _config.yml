@@ -104,21 +104,21 @@ analytics: # 블로그 접근 경로 확인 코드
 
 # Site Author / 사이드바 소개 부분
 author:
-  name             : "꿈 양봉자🍯"
+  name             : "김지훈"
   avatar           : "/assets/images/profile22.10.jpg"
-  bio              : "Today I grew up"
-  location         : "Jeonju"
+  bio              : "CODEONE 연구원"
+  location         : "Ilsan"
   
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chh96077@gmail.com"
+      url: "mn31555@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/heoni00"
+      url: "https://github.com/mn31555"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/0ldcar_"
+      url: "https://www.instagram.com/"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -135,7 +135,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/heoni00"
+      url: "https://github.com/mn31555"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url:
