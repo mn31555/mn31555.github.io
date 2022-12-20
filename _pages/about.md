@@ -22,17 +22,17 @@ author_profile: true
   
 ▪ HTML5  
 ▪ CSS3   
-▪ JavaScript, JQuery
-▪ SQL (MySQL,Oracle,MariaDB)
-▪ JAVA
-▪ C, C++
-▪ Linux
+▪ JavaScript, JQuery  <br>
+▪ SQL (MySQL,Oracle,MariaDB)  <br>
+▪ JAVA <br>
+▪ C, C++  <br>
+▪ Linux <br>
 
 #### Tools & Collaboration
 
 ▪ Excel  
-▪ Git, Git Desktop
-▪ Spring Legecy, Spring Boot
+▪ Git, Git Desktop <br>
+▪ Spring Legecy, Spring Boot <br>
 
 ## 🖥 Work Experience & Projects
 
@@ -43,7 +43,7 @@ author_profile: true
 
 > **CODEONE 보안연구소 입사** 2022.11 ~
 ##### 보안 관련 연구 개발
-▪ 보안 관련 시스템 개발
+▪ 보안 관련 시스템 개발 <br>
 ▪ Spring, JAVA 역량 강화
 
 
