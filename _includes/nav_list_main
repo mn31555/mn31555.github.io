@@ -8,35 +8,21 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
-        <span class="nav__sub-title">Portfolio Dev</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Git" %}
-                        <li><a href="/categories/git" class="">Git & Github({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
+        <span class="nav__sub-title">Blog</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Blog" %}
-                        <li><a href="/categories/blog" class="">Blog Dev({{category[1].size}})</a></li>
+                        <li><a href="/categories/blog" class="">How To Use({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
       </li>
       <li>
-        <span class="nav__sub-title">JAVA</span>
+        <span class="nav__sub-title">Language</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "기본" %}
-                        <li><a href="/categories/기본" class="">Git & Github({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "심화" %}
-                        <li><a href="/categories/심화" class="">Blog Dev({{category[1].size}})</a></li>
+                    {% if category[0] == "Java" %}
+                        <li><a href="/categories/java" class="">Java({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
