@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "myskin" # "default"  "air", "aqua", "contrast", , "d
 
 # Site Settings
 locale                   : "ko-KR" # 블로그 사용 언어
-title                    : "mn31555" # 블로그 타이틀
+title                    : "Developer's Day" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "mn31555"
+name                     : "개발자 김지훈"
 description              : "업무 & 개발 블로그"
 url                      : "https://mn31555.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
