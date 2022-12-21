@@ -1,9 +1,9 @@
 # main links
 main:
   #- title: "Home"
-    url: /index.html
+    #url: /index.html
   #- title: "Category"
-    url: /categories/
+    #url: /categories/
   - title: "About Me"
     url: /about/
     
